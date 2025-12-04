@@ -1,7 +1,9 @@
 # Reconhecimento Automático de Placas Veiculares (ALPR) com YOLOv11 e OCR
 
-> **Disciplina:** Processamento de Imagens Digitais (PID)  
+> **Disciplina:** Processamento de Imagens Digitais (PID)
+> 
 > **Professor:** Fischer Stephan Meira
+>
 > **Instituição:** Centro Universitário Dom Helder
 
 Este projeto implementa um pipeline completo de detecção, rastreamento e reconhecimento de placas de veículos em vídeos. O sistema utiliza **YOLOv11** para detecção de objetos, o algoritmo **SORT** para rastreamento (tracking), **EasyOCR** para leitura de caracteres e diversas técnicas de **Processamento Digital de Imagens** para pré-processamento.

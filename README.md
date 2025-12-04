@@ -167,6 +167,10 @@ Abaixo, os gráficos gerados durante o processo de validação do modelo:
 
 O sistema implementa ainda uma **correção heurística** no pós-processamento (arquivo `src/util.py`) para corrigir erros de OCR baseados na confusão visual (ex: ler `I` como `1` em posições numéricas), garantindo que a leitura final seja compatível com o padrão de placas veiculares.
 
+### Frame um frame do vídeo com o pipeline aplicado
+
+![print](documentacao/print.png)
+
 ---
 
 ## 👥 Autores
